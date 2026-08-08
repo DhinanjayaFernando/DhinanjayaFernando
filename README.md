@@ -18,6 +18,14 @@
 - 📐 U-Net and vanilla SegFormer-B0 baselines, evaluated on Dice / IoU / Precision / Recall / F1
 - ✍️ I lead the writing & technical integration — short paper, cross-module consistency review, and the standalone Boundary Refinement Module (differentiable morphological-gradient boundary extraction + Boundary Dice loss)
 
+### 📄 Publications
+
+**["The Remittance Blueprint: Data-driven Intelligence for Sri Lanka"](https://arxiv.org/abs/2606.28190)** — a 32-year (1994–2025) econometric and ML study of Sri Lankan labor emigration and worker remittances. [Code](https://github.com/Dinurang/Sri-Lanka-Emigrant-Remittance-Analysis)
+
+- Built the core econometric & ML forecasting pipeline: stationarity testing (ADF/KPSS), Johansen Cointegration, VECM, Impulse Response Functions & Variance Decomposition, K-Means regime clustering, and Ridge Regression vs. SARIMA forecasting
+- Ridge Regression achieved a 73.8% RMSE improvement over SARIMA; the study projects 2026 remittance inflows of ~USD 9.0B
+- Co-authored with 8 collaborators, University of Moratuwa, Dept. of Computer Science & Engineering
+
 ### 🌱 Other things I've shipped
 
 | Project | What it is |
