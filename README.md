@@ -24,6 +24,7 @@
 |---|---|
 | [`Biofusion_team_Pulse_Pirates`](https://github.com/DhinanjayaFernando/Biofusion_team_Pulse_Pirates) | Machine learning project (Jupyter) |
 | [`flower_exchange`](https://github.com/DhinanjayaFernando/flower_exchange) | C++ project |
+| [`AgriSenseNet`](https://github.com/AgriSenseNet) | Agri-tech / smart-farming sensor network — team collaboration |
 
 ### 🛠️ Tech I work with
 
