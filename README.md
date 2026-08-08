@@ -25,6 +25,7 @@
 | [`Biofusion_team_Pulse_Pirates`](https://github.com/DhinanjayaFernando/Biofusion_team_Pulse_Pirates) | Machine learning project (Jupyter) |
 | [`flower_exchange`](https://github.com/DhinanjayaFernando/flower_exchange) | C++ project |
 | [`AgriSenseNet`](https://github.com/AgriSenseNet) | Agri-tech / smart-farming sensor network — team collaboration |
+| [`NanoProcessor_Group_5`](https://github.com/DhinanjayaFernando/NanoProcessor-Public) | VHDL nano-processor (single-cycle CPU) — register file, control/decode path, testbenches |
 
 ### 🛠️ Tech I work with
 
