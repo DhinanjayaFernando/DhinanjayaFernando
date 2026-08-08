@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhinanjayaFernando&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=DhinanjayaFernando&hide_border=true" alt="streak stats"/>
 </p>
 
 ### 📫 Reach me
