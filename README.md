@@ -92,7 +92,7 @@
 
 ### 📄 Publications
 
-**["The Remittance Blueprint: Data-driven Intelligence for Sri Lanka"](https://arxiv.org/abs/2606.28190)**: a 32-year (1994-2025) econometric and ML study of Sri Lankan labor emigration and worker remittances. [Code](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis)
+**["The Remittance Blueprint: Data-driven Intelligence for Sri Lanka"](https://arxiv.org/abs/2606.28190)** (accepted at MERCon 2026): a 32-year (1994-2025) econometric and ML study of Sri Lankan labor emigration and worker remittances. [Code](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis)
 
 - Built the core econometric & ML forecasting pipeline: stationarity testing (ADF/KPSS), Johansen Cointegration, VECM, Impulse Response Functions & Variance Decomposition, K-Means regime clustering, and Ridge Regression vs. SARIMA forecasting
 - Ridge Regression achieved a 73.8% RMSE improvement over SARIMA (test RMSE cut from USD 1,889M to USD 494.8M); the study projects 2026 remittance inflows of ~USD 9.0B
