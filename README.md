@@ -48,6 +48,11 @@
 ### 🧩 Core skills
 
 <p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Data%20Science-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
   <img src="https://img.shields.io/badge/Algorithms-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Data%20Structures-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
   <img src="https://img.shields.io/badge/Competitive%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
@@ -56,11 +61,6 @@
   <img src="https://img.shields.io/badge/Systems%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
   <img src="https://img.shields.io/badge/Quantum%20Mechanics-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=9D00FF" />
   <img src="https://img.shields.io/badge/Analytical%20Thinking-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Data%20Science-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
@@ -103,7 +103,7 @@
 - 🥈 International Statistics Olympiad 2020, Silver Medal
 - 🥉 International Junior Science Olympiad 2018, Bronze Medal (national-team selection)
 - 🎓 Dean's List, Faculty of Engineering, University of Moratuwa: all 4 semesters to date (SGPA 3.84, 3.95, 3.96, 3.96)
-- 📈 29 of 30 completed modules graded A- or higher (13 A+), per official transcript
+- 📈 29 of 30 completed modules graded A- or higher, per official transcript: **13 A+ · 12 A · 4 A- · 1 B+**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
