@@ -49,7 +49,8 @@
 
 - 🥈 International Statistics Olympiad 2020, Silver Medal
 - 🥉 International Junior Science Olympiad 2018, Bronze Medal (national-team selection)
-- 🎓 Dean's List, Faculty of Engineering, University of Moratuwa: Semesters 1 to 4 (GPA 3.84 to 3.96)
+- 🎓 Dean's List, Faculty of Engineering, University of Moratuwa: all 4 semesters to date (SGPA 3.84, 3.95, 3.96, 3.96)
+- 📈 29 of 30 completed modules graded A- or higher (13 A+), per official transcript
 - ☁️ AWS Academy Graduate: Cloud Foundations and Microservices & CI/CD Pipeline Builder
 - 🟩 NVIDIA Deep Learning Institute: Fundamentals of Accelerated Data Science
 - 💼 Forage job simulations: Bank of America (The Private Bank) and Goldman Sachs (Controllers)
