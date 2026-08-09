@@ -12,51 +12,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
-### 🔭 Currently building
-
-**Explainability-Guided SegFormer for Forest Cover Segmentation**: an undergraduate research project (target: IEEE conference publication) that turns Vision Transformer attention from a post-hoc visualization into an actual training signal. We introduce an **Attention Consistency Loss** that aligns SegFormer's internal spatial-reduction attention with the ground-truth forest mask, plus a new interpretability metric, **AAMO** (Average Attention-Mask Overlap).
-
-- 🧠 Adapting Gradient-weighted Attention Rollout to SegFormer's non-standard attention architecture
-- 📐 U-Net and vanilla SegFormer-B0 baselines, evaluated on Dice / IoU / Precision / Recall / F1
-- ✍️ I lead the writing & technical integration: short paper, cross-module consistency review, and the standalone Boundary Refinement Module (differentiable morphological-gradient boundary extraction + Boundary Dice loss)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
-
-### 📄 Publications
-
-**["The Remittance Blueprint: Data-driven Intelligence for Sri Lanka"](https://arxiv.org/abs/2606.28190)**: a 32-year (1994-2025) econometric and ML study of Sri Lankan labor emigration and worker remittances. [Code](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis)
-
-- Built the core econometric & ML forecasting pipeline: stationarity testing (ADF/KPSS), Johansen Cointegration, VECM, Impulse Response Functions & Variance Decomposition, K-Means regime clustering, and Ridge Regression vs. SARIMA forecasting
-- Ridge Regression achieved a 73.8% RMSE improvement over SARIMA (test RMSE cut from USD 1,889M to USD 494.8M); the study projects 2026 remittance inflows of ~USD 9.0B
-- Co-authored with 8 collaborators, University of Moratuwa, Dept. of Computer Science & Engineering
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
-
-### 🌱 Projects I've shipped
-
-| Project | What it is |
-|---|---|
-| [`Explainability-Guided SegFormer`](https://github.com/DNNGroupProject/DNN_Project) | Attention-supervised ViT segmentation research, see above |
-| [`Sri-Lanka-Emigrant-Remittance-Analysis`](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis) | Econometric & ML remittance-forecasting research, see above |
-| [`NanoProcessor_Group_5`](https://github.com/DhinanjayaFernando/NanoProcessor-Public) | Single-cycle CPU in VHDL: designed the register file, multiplexers, and control/instruction-decode path, each verified with dedicated testbenches |
-| [`flower_exchange`](https://github.com/DhinanjayaFernando/flower_exchange) | C++17 price-time-priority order-matching engine (LSEG-style challenge): order validation, rejection-code handling, CSV execution reporting across 5 instruments |
-| [`Biofusion_team_Pulse_Pirates`](https://github.com/DhinanjayaFernando/Biofusion_team_Pulse_Pirates) | Hackathon ML project: PyTorch models for malaria detection and platelet-condition analysis, served via FastAPI/Uvicorn |
-| [`AgriSenseNet`](https://github.com/AgriSenseNet) | Agri-tech / smart-farming sensor network, team collaboration |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
-
-### 🏆 Highlights
-
-- 🥈 International Statistics Olympiad 2020, Silver Medal
-- 🥉 International Junior Science Olympiad 2018, Bronze Medal (national-team selection)
-- 🎓 Dean's List, Faculty of Engineering, University of Moratuwa: all 4 semesters to date (SGPA 3.84, 3.95, 3.96, 3.96)
-- 📈 29 of 30 completed modules graded A- or higher (13 A+), per official transcript
-- ☁️ AWS Academy Graduate: Cloud Foundations and Microservices & CI/CD Pipeline Builder
-- 🟩 NVIDIA Deep Learning Institute: Fundamentals of Accelerated Data Science
-- 💼 Forage job simulations: Bank of America (The Private Bank) and Goldman Sachs (Controllers)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
-
 ### 🛠️ Tech I work with
 
 <p>
@@ -90,6 +45,63 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
+### 🧩 Core skills
+
+<p>
+  <img src="https://img.shields.io/badge/Algorithms-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Data%20Structures-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/High--Performance%20Computing-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=A9FEF7" />
+  <img src="https://img.shields.io/badge/Systems%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
+  <img src="https://img.shields.io/badge/Quantum%20Mechanics-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=9D00FF" />
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🔭 Currently building
+
+**Explainability-Guided SegFormer for Forest Cover Segmentation**: an undergraduate research project (target: IEEE conference publication) that turns Vision Transformer attention from a post-hoc visualization into an actual training signal. We introduce an **Attention Consistency Loss** that aligns SegFormer's internal spatial-reduction attention with the ground-truth forest mask, plus a new interpretability metric, **AAMO** (Average Attention-Mask Overlap).
+
+- 🧠 Adapting Gradient-weighted Attention Rollout to SegFormer's non-standard attention architecture
+- 📐 U-Net and vanilla SegFormer-B0 baselines, evaluated on Dice / IoU / Precision / Recall / F1
+- ✍️ I lead the writing & technical integration: short paper, cross-module consistency review, and the standalone Boundary Refinement Module (differentiable morphological-gradient boundary extraction + Boundary Dice loss)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🌱 Projects I've shipped
+
+| Project | What it is |
+|---|---|
+| [`Explainability-Guided SegFormer`](https://github.com/DNNGroupProject/DNN_Project) | Attention-supervised ViT segmentation research, see above |
+| [`Sri-Lanka-Emigrant-Remittance-Analysis`](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis) | Econometric & ML remittance-forecasting research, see below |
+| [`NanoProcessor_Group_5`](https://github.com/DhinanjayaFernando/NanoProcessor-Public) | Single-cycle CPU in VHDL: designed the register file, multiplexers, and control/instruction-decode path, each verified with dedicated testbenches |
+| [`flower_exchange`](https://github.com/DhinanjayaFernando/flower_exchange) | C++17 price-time-priority order-matching engine (LSEG-style challenge): order validation, rejection-code handling, CSV execution reporting across 5 instruments |
+| [`Biofusion_team_Pulse_Pirates`](https://github.com/DhinanjayaFernando/Biofusion_team_Pulse_Pirates) | Hackathon ML project: PyTorch models for malaria detection and platelet-condition analysis, served via FastAPI/Uvicorn |
+| [`AgriSenseNet`](https://github.com/AgriSenseNet) | Agri-tech / smart-farming sensor network, team collaboration |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 📄 Publications
+
+**["The Remittance Blueprint: Data-driven Intelligence for Sri Lanka"](https://arxiv.org/abs/2606.28190)**: a 32-year (1994-2025) econometric and ML study of Sri Lankan labor emigration and worker remittances. [Code](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis)
+
+- Built the core econometric & ML forecasting pipeline: stationarity testing (ADF/KPSS), Johansen Cointegration, VECM, Impulse Response Functions & Variance Decomposition, K-Means regime clustering, and Ridge Regression vs. SARIMA forecasting
+- Ridge Regression achieved a 73.8% RMSE improvement over SARIMA (test RMSE cut from USD 1,889M to USD 494.8M); the study projects 2026 remittance inflows of ~USD 9.0B
+- Co-authored with 8 collaborators, University of Moratuwa, Dept. of Computer Science & Engineering
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🏆 Highlights
+
+- 🥈 International Statistics Olympiad 2020, Silver Medal
+- 🥉 International Junior Science Olympiad 2018, Bronze Medal (national-team selection)
+- 🎓 Dean's List, Faculty of Engineering, University of Moratuwa: all 4 semesters to date (SGPA 3.84, 3.95, 3.96, 3.96)
+- 📈 29 of 30 completed modules graded A- or higher (13 A+), per official transcript
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
 ### 📜 Certifications
 
 - **AWS Academy Graduate**: Cloud Foundations ([verify](https://www.credly.com/badges/bc9f3da5-697c-491f-9731-d62103903661/linked_in_profile))
@@ -103,21 +115,6 @@
 - **IEEEXtreme 19.0**: 24-hour global programming competition, team 0xHack (Oct 2025) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
 - **MoraXtreme 10.0**: Algorithmic Coding Competition, team 0xHack, University of Moratuwa (Oct 2025) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
 - **Bio Fusion Hackathon**: IEEE EMBS Student Branch Chapter, University of Sri Jayewardenepura (Dec 2025 to Jan 2026) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
-
-### 🧩 Core skills
-
-<p>
-  <img src="https://img.shields.io/badge/Algorithms-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Data%20Structures-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/High--Performance%20Computing-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=A9FEF7" />
-  <img src="https://img.shields.io/badge/Systems%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
-  <img src="https://img.shields.io/badge/Quantum%20Mechanics-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=9D00FF" />
-  <img src="https://img.shields.io/badge/Analytical%20Thinking-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
