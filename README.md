@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Deep+Learning+%26+Computer+Vision;Explainable+AI+%C3%97+Semantic+Segmentation;Econometrics+%C3%97+ML+Forecasting+Research;Digital+Design+Engineer+%28VHDL%29;International+Olympiad+Medalist;Educational+Content+Creator;Writing+%26+Technical+Integration+Lead" alt="Typing SVG" />
 
 [![Follow](https://img.shields.io/github/followers/DhinanjayaFernando?label=Follow&style=for-the-badge&color=FF00E5&labelColor=0D0221)](https://github.com/DhinanjayaFernando)
+<a href="mailto:dhinanjayaf.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
+<a href="https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="https://www.youtube.com/@nisaldhinanjaya"><img src="https://img.shields.io/badge/YouTube-0D0221?style=for-the-badge&logo=youtube&logoColor=F8D847" /></a>
 
 <img src="https://img.shields.io/badge/B.Sc%20Eng%20(Hons)%20CSE-0D0221?style=flat-square&color=0D0221&logoColor=00F0FF&labelColor=0D0221" alt=""/> <img src="https://img.shields.io/badge/University%20of%20Moratuwa-0D0221?style=flat-square&color=0D0221&labelColor=0D0221&logoColor=FF00E5" alt=""/> <img src="https://img.shields.io/badge/CGPA-3.94%2F4.00-0D0221?style=flat-square&labelColor=0D0221&color=0D0221&logoColor=F8D847" alt=""/> <img src="https://img.shields.io/badge/📍-Sri%20Lanka-0D0221?style=flat-square&labelColor=0D0221&color=0D0221" alt=""/>
 
@@ -136,17 +139,5 @@
 - 🎥 Content creator on my [educational YouTube channel](https://www.youtube.com/@nisaldhinanjaya): Olympiad Prep, Astronomy, Statistics, and Linear Algebra
 - 🧑‍🤝‍🧑 Student member, IEEE and IESL; member, Mathematics Society, University of Moratuwa
 - 🔭 Interests: Quantum Mechanics, Astronomy & Astrophysics, Pure Mathematics, and Literature
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
-
-### 📫 Reach me
-
-<p>
-  <a href="mailto:dhinanjayaf.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
-  <a href="https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-  <a href="https://www.youtube.com/@nisaldhinanjaya"><img src="https://img.shields.io/badge/YouTube-0D0221?style=for-the-badge&logo=youtube&logoColor=F8D847" /></a>
-</p>
-
-<p align="center"><i>Currently reading up on Attention Rollout for spatial-reduction attention. Say hi if you're into ViTs or XAI.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%"/>
