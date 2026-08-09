@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,100:00F0FF&height=200&section=header&text=Hi,%20I'm%20Dhinanjaya&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Deep%20Learning%20%C3%97%20Explainable%20AI%20%C3%97%20Computer%20Vision&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=CS+Undergrad+%7C+Deep+Learning+%26+Computer+Vision;Explainable+AI+%C3%97+Semantic+Segmentation;Writing+%26+Technical+Integration+Lead" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+Deep+Learning+%26+Computer+Vision;Explainable+AI+%C3%97+Semantic+Segmentation;Econometrics+%C3%97+ML+Forecasting+Research;Digital+Design+Engineer+%28VHDL%29;International+Olympiad+Medalist;Educational+Content+Creator;Writing+%26+Technical+Integration+Lead" alt="Typing SVG" />
 
 [![Follow](https://img.shields.io/github/followers/DhinanjayaFernando?label=Follow&style=for-the-badge&color=FF00E5&labelColor=0D0221)](https://github.com/DhinanjayaFernando)
 
