@@ -62,6 +62,8 @@
   <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=F8D847" />
   <img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00E5" />
   <img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=A9FEF7" />
   <img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=F8D847" />
@@ -69,6 +71,20 @@
   <img src="https://img.shields.io/badge/AWS-0D0221?style=for-the-badge&logo=amazonaws&logoColor=FE428E" />
   <img src="https://img.shields.io/badge/LaTeX-0D0221?style=for-the-badge&logo=latex&logoColor=A9FEF7" />
   <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FE428E" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 📚 Statistics & ML libraries
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/scikit--learn-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/SciPy-0D0221?style=for-the-badge&logo=scipy&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/statsmodels-0D0221?style=for-the-badge&logoColor=A9FEF7" />
+  <img src="https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=FE428E" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D0221?style=for-the-badge&logoColor=9D00FF" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
