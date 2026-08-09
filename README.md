@@ -138,7 +138,7 @@
 ### 🌐 Beyond code
 
 - 🎥 Content creator on my [educational YouTube channel](https://www.youtube.com/@nisaldhinanjaya): Olympiad Prep, Astronomy, Statistics, and Linear Algebra
-- 🧑‍🤝‍🧑 Student member, IEEE and IESL; member, Mathematics Society, University of Moratuwa
+- 🧑‍🤝‍🧑 Student member, IEEE; member, SEDS Mora and Mathematics Society, University of Moratuwa
 - 🔭 Interests: Quantum Mechanics, Astronomy & Astrophysics, Pure Mathematics, and Literature
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00E5&height=100&section=footer" width="100%"/>
