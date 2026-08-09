@@ -6,9 +6,11 @@
 
 [![Follow](https://img.shields.io/github/followers/DhinanjayaFernando?label=Follow&style=for-the-badge&color=FF00E5&labelColor=0D0221)](https://github.com/DhinanjayaFernando)
 
+<img src="https://img.shields.io/badge/B.Sc%20Eng%20(Hons)%20CSE-0D0221?style=flat-square&color=0D0221&logoColor=00F0FF&labelColor=0D0221" alt=""/> <img src="https://img.shields.io/badge/University%20of%20Moratuwa-0D0221?style=flat-square&color=0D0221&labelColor=0D0221&logoColor=FF00E5" alt=""/> <img src="https://img.shields.io/badge/CGPA-3.94%2F4.00-0D0221?style=flat-square&labelColor=0D0221&color=0D0221&logoColor=F8D847" alt=""/> <img src="https://img.shields.io/badge/📍-Sri%20Lanka-0D0221?style=flat-square&labelColor=0D0221&color=0D0221" alt=""/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
 ### 🔭 Currently building
 
@@ -18,33 +20,69 @@
 - 📐 U-Net and vanilla SegFormer-B0 baselines, evaluated on Dice / IoU / Precision / Recall / F1
 - ✍️ I lead the writing & technical integration: short paper, cross-module consistency review, and the standalone Boundary Refinement Module (differentiable morphological-gradient boundary extraction + Boundary Dice loss)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
 ### 📄 Publications
 
 **["The Remittance Blueprint: Data-driven Intelligence for Sri Lanka"](https://arxiv.org/abs/2606.28190)**: a 32-year (1994-2025) econometric and ML study of Sri Lankan labor emigration and worker remittances. [Code](https://github.com/Dinurang/Sri-Lanka-Emigrant-Remittance-Analysis)
 
 - Built the core econometric & ML forecasting pipeline: stationarity testing (ADF/KPSS), Johansen Cointegration, VECM, Impulse Response Functions & Variance Decomposition, K-Means regime clustering, and Ridge Regression vs. SARIMA forecasting
-- Ridge Regression achieved a 73.8% RMSE improvement over SARIMA; the study projects 2026 remittance inflows of ~USD 9.0B
+- Ridge Regression achieved a 73.8% RMSE improvement over SARIMA (test RMSE cut from USD 1,889M to USD 494.8M); the study projects 2026 remittance inflows of ~USD 9.0B
 - Co-authored with 8 collaborators, University of Moratuwa, Dept. of Computer Science & Engineering
 
-### 🌱 Other things I've shipped
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🌱 Projects I've shipped
 
 | Project | What it is |
 |---|---|
-| [`Biofusion_team_Pulse_Pirates`](https://github.com/DhinanjayaFernando/Biofusion_team_Pulse_Pirates) | Machine learning project (Jupyter) |
-| [`flower_exchange`](https://github.com/DhinanjayaFernando/flower_exchange) | C++ project |
+| [`Explainability-Guided SegFormer`](https://github.com/DNNGroupProject/DNN_Project) | Attention-supervised ViT segmentation research, see above |
+| [`Sri-Lanka-Emigrant-Remittance-Analysis`](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis) | Econometric & ML remittance-forecasting research, see above |
+| [`NanoProcessor_Group_5`](https://github.com/DhinanjayaFernando/NanoProcessor-Public) | Single-cycle CPU in VHDL: designed the register file, multiplexers, and control/instruction-decode path, each verified with dedicated testbenches |
+| [`flower_exchange`](https://github.com/DhinanjayaFernando/flower_exchange) | C++17 price-time-priority order-matching engine (LSEG-style challenge): order validation, rejection-code handling, CSV execution reporting across 5 instruments |
+| [`Biofusion_team_Pulse_Pirates`](https://github.com/DhinanjayaFernando/Biofusion_team_Pulse_Pirates) | Hackathon ML project: PyTorch models for malaria detection and platelet-condition analysis, served via FastAPI/Uvicorn |
 | [`AgriSenseNet`](https://github.com/AgriSenseNet) | Agri-tech / smart-farming sensor network, team collaboration |
-| [`NanoProcessor_Group_5`](https://github.com/DhinanjayaFernando/NanoProcessor-Public) | VHDL nano-processor (single-cycle CPU): register file, control/decode path, testbenches |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🏆 Highlights
+
+- 🥈 International Statistics Olympiad 2020, Silver Medal
+- 🥉 International Junior Science Olympiad 2018, Bronze Medal (national-team selection)
+- 🎓 Dean's List, Faculty of Engineering, University of Moratuwa: Semesters 1 to 4 (GPA 3.84 to 3.96)
+- ☁️ AWS Academy Graduate: Cloud Foundations and Microservices & CI/CD Pipeline Builder
+- 🟩 NVIDIA Deep Learning Institute: Fundamentals of Accelerated Data Science
+- 💼 Forage job simulations: Bank of America (The Private Bank) and Goldman Sachs (Controllers)
+- 👨‍🏫 Marking Scheme Panel Leader, AP Physics (Jan 2023 to Jan 2024)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
 ### 🛠️ Tech I work with
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00E5" />
-  <img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=F8D847" />
   <img src="https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=A9FEF7" />
+  <img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/VHDL-0D0221?style=for-the-badge&logoColor=FE428E" />
+  <img src="https://img.shields.io/badge/AWS-0D0221?style=for-the-badge&logo=amazonaws&logoColor=FE428E" />
   <img src="https://img.shields.io/badge/LaTeX-0D0221?style=for-the-badge&logo=latex&logoColor=A9FEF7" />
   <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FE428E" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 📜 Certifications
+
+- **AWS Academy Graduate**: Cloud Foundations, and Microservices & CI/CD Pipeline Builder ([verify](https://www.credly.com/badges/bc9f3da5-697c-491f-9731-d62103903661/linked_in_profile))
+- **NVIDIA DLI**: Fundamentals of Accelerated Data Science ([verify](https://learn.nvidia.com/certificates?id=bAXReTlyTpKp2t1-UMKUGw))
+- **Forage**: Bank of America, The Private Bank Job Simulation
+- **Forage**: Goldman Sachs, Controllers Job Simulation
+- **ROYAL ICT**: IT & Microsoft Office Specialist, MS Office 2019
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
 ### 🔥 Contribution streak
 
@@ -52,12 +90,22 @@
   <img src="https://streak-stats.demolab.com/?user=DhinanjayaFernando&theme=radical&hide_border=true&background=0D0221" alt="streak stats"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🌐 Beyond code
+
+- 🎥 Content creator on my [educational YouTube channel](https://www.youtube.com/@nisaldhinanjaya): Olympiad prep, astronomy, statistics, and linear algebra
+- 🧑‍🤝‍🧑 Student member, IEEE and IESL; member, Mathematics Society, University of Moratuwa
+- 🔭 Interests: quantum mechanics, astronomy & astrophysics, pure mathematics, and literature
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
 ### 📫 Reach me
 
 <p>
-  <!-- Optional: uncomment / fill in the ones you want public -->
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a> -->
-  <!-- <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a> -->
+  <a href="mailto:dhinanjayaf.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
+  <a href="https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+  <a href="https://www.youtube.com/@nisaldhinanjaya"><img src="https://img.shields.io/badge/YouTube-0D0221?style=for-the-badge&logo=youtube&logoColor=F8D847" /></a>
 </p>
 
 <p align="center"><i>Currently reading up on Attention Rollout for spatial-reduction attention. Say hi if you're into ViTs or XAI.</i></p>
