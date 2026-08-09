@@ -53,7 +53,6 @@
 - ☁️ AWS Academy Graduate: Cloud Foundations and Microservices & CI/CD Pipeline Builder
 - 🟩 NVIDIA Deep Learning Institute: Fundamentals of Accelerated Data Science
 - 💼 Forage job simulations: Bank of America (The Private Bank) and Goldman Sachs (Controllers)
-- 👨‍🏫 Marking Scheme Panel Leader, AP Physics (Jan 2023 to Jan 2024)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
@@ -76,11 +75,11 @@
 
 ### 📜 Certifications
 
-- **AWS Academy Graduate**: Cloud Foundations, and Microservices & CI/CD Pipeline Builder ([verify](https://www.credly.com/badges/bc9f3da5-697c-491f-9731-d62103903661/linked_in_profile))
+- **AWS Academy Graduate**: Cloud Foundations ([verify](https://www.credly.com/badges/bc9f3da5-697c-491f-9731-d62103903661/linked_in_profile))
+- **AWS Academy Graduate**: Microservices & CI/CD Pipeline Builder ([verify](https://www.credly.com/badges/50432b44-64a4-4bcd-a372-60ec522bf474/linked_in_profile))
 - **NVIDIA DLI**: Fundamentals of Accelerated Data Science ([verify](https://learn.nvidia.com/certificates?id=bAXReTlyTpKp2t1-UMKUGw))
-- **Forage**: Bank of America, The Private Bank Job Simulation
-- **Forage**: Goldman Sachs, Controllers Job Simulation
-- **ROYAL ICT**: IT & Microsoft Office Specialist, MS Office 2019
+- **Forage**: Bank of America, The Private Bank Job Simulation ([certificate](https://www.theforage.com/completion-certificates/fMCqmt8qR4G85Puue/Lu5h6FDrPES9mKn3h_fMCqmt8qR4G85Puue_69594dd8f76d215bcfc92a34_1783855936011_completion_certificate.pdf))
+- **Forage**: Goldman Sachs, Controllers Job Simulation ([certificate](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_69594dd8f76d215bcfc92a34_1783858447209_completion_certificate.pdf))
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
