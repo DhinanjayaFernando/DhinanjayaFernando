@@ -70,11 +70,9 @@
 
 ### 🔭 Currently building
 
-**Explainability-Guided SegFormer for Forest Cover Segmentation**: an undergraduate research project (target: IEEE conference publication) that turns Vision Transformer attention from a post-hoc visualization into an actual training signal. We introduce an **Attention Consistency Loss** that aligns SegFormer's internal spatial-reduction attention with the ground-truth forest mask, plus a new interpretability metric, **AAMO** (Average Attention-Mask Overlap).
+**Explainability-Guided SegFormer for Forest Cover Segmentation**: an undergraduate research project (target: IEEE conference publication) developing an explainability-guided training approach for Vision Transformer-based semantic segmentation, including a new quantitative interpretability metric.
 
-- 🧠 Adapting Gradient-weighted Attention Rollout to SegFormer's non-standard attention architecture
-- 📐 U-Net and vanilla SegFormer-B0 baselines, evaluated on Dice / IoU / Precision / Recall / F1
-- ✍️ I lead the writing & technical integration: short paper, cross-module consistency review, and the standalone Boundary Refinement Module (differentiable morphological-gradient boundary extraction + Boundary Dice loss)
+- ✍️ Leading the writing and technical integration for a 5-person team
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
