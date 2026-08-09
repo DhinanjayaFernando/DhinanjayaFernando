@@ -120,10 +120,10 @@
 - **Forage**: Goldman Sachs, Controllers Job Simulation ([certificate](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_69594dd8f76d215bcfc92a34_1783858447209_completion_certificate.pdf))
 - **International Computer Science Competition (ICSC) 2026**: Qualification Round, code passed all test cases ([verify](https://icscompetition.org/verify) with ID `QR-2026-1037FEF96CFF`, also on [LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
 - **Global Quantum Mechanics Challenge (GLQMC) 2026**: Qualification Round ([verify](https://glqmc.org/verify) with ID `QR-2026-1033C919517F`, also on [LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
-- **LSEG Knowledge Workshop**: High Performance & Mission Critical Software Development Using C++ (Apr 2026) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
-- **IEEEXtreme 19.0**: 24-hour global programming competition, team 0xHack (Oct 2025) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
-- **MoraXtreme 10.0**: Algorithmic Coding Competition, team 0xHack, University of Moratuwa (Oct 2025) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
-- **Bio Fusion Hackathon**: IEEE EMBS Student Branch Chapter, University of Sri Jayewardenepura (Dec 2025 to Jan 2026) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
+- **LSEG Knowledge Workshop**: Completed training on High Performance & Mission Critical Software Development Using C++ (Apr 2026) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
+- **IEEEXtreme 19.0**: Participated with team 0xHack in this 24-hour global programming competition (Oct 2025) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
+- **MoraXtreme 10.0**: Participated with team 0xHack in this Algorithmic Coding Competition, University of Moratuwa (Oct 2025) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
+- **Bio Fusion Hackathon**: Participated, hosted by the IEEE EMBS Student Branch Chapter, University of Sri Jayewardenepura (Dec 2025 to Jan 2026) ([LinkedIn](https://www.linkedin.com/in/dhinanjaya-fernando-38494b237/))
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
