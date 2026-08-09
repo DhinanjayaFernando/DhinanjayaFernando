@@ -56,6 +56,11 @@
   <img src="https://img.shields.io/badge/Systems%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
   <img src="https://img.shields.io/badge/Quantum%20Mechanics-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=9D00FF" />
   <img src="https://img.shields.io/badge/Analytical%20Thinking-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Data%20Science-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
