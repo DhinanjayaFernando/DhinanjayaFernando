@@ -82,7 +82,7 @@
 
 | Project | What it is |
 |---|---|
-| `CeyNex` (private repo, in progress) | Multi-agent LLM trade-intelligence platform for Sri Lankan exports; full-stack dev, Apparel & Manufacturing vertical + presentation layer (React/TypeScript/Tailwind frontend, Python data-extraction pipelines) |
+| `CeyNex` (private repo, in progress) | Software engineering group project (3 members) building an AI system for querying Sri Lanka's export economy; data-extraction pipelines (EDB, JAAF) + React/TypeScript frontend for a multi-agent LLM system combining a knowledge graph, forecasting models, and evidence-grounded query answering |
 | [`Explainability-Guided SegFormer`](https://github.com/DNNGroupProject/DNN_Project) | Attention-supervised ViT segmentation research, see above |
 | [`Sri-Lanka-Emigrant-Remittance-Analysis`](https://github.com/DhinanjayaFernando/Sri-Lanka-Emigrant-Remittance-Analysis) | Econometric & ML remittance-forecasting research, see below |
 | [`NanoProcessor_Group_5`](https://github.com/DhinanjayaFernando/NanoProcessor-Public) | Single-cycle CPU in VHDL: designed the register file, multiplexers, and control/instruction-decode path, each verified with dedicated testbenches |
