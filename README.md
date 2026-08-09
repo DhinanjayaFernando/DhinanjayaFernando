@@ -97,6 +97,27 @@
 - **NVIDIA DLI**: Fundamentals of Accelerated Data Science ([verify](https://learn.nvidia.com/certificates?id=bAXReTlyTpKp2t1-UMKUGw))
 - **Forage**: Bank of America, The Private Bank Job Simulation ([certificate](https://www.theforage.com/completion-certificates/fMCqmt8qR4G85Puue/Lu5h6FDrPES9mKn3h_fMCqmt8qR4G85Puue_69594dd8f76d215bcfc92a34_1783855936011_completion_certificate.pdf))
 - **Forage**: Goldman Sachs, Controllers Job Simulation ([certificate](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_69594dd8f76d215bcfc92a34_1783858447209_completion_certificate.pdf))
+- **International Computer Science Competition (ICSC) 2026**: Qualification Round, code passed all test cases ([verify](https://icscompetition.org/verify) with ID `QR-2026-1037FEF96CFF`)
+- **Global Quantum Mechanics Challenge (GLQMC) 2026**: Qualification Round ([verify](https://glqmc.org/verify) with ID `QR-2026-1033C919517F`)
+- **LSEG Knowledge Workshop**: High Performance & Mission Critical Software Development Using C++ (Apr 2026)
+- **IEEEXtreme 19.0**: 24-hour global programming competition, team 0xHack (Oct 2025)
+- **MoraXtreme 10.0**: Algorithmic Coding Competition, team 0xHack, University of Moratuwa (Oct 2025)
+- **Bio Fusion Hackathon**: IEEE EMBS Student Branch Chapter, University of Sri Jayewardenepura (Dec 2025 to Jan 2026)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
+
+### 🧩 Core skills
+
+<p>
+  <img src="https://img.shields.io/badge/Algorithms-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Data%20Structures-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FF00E5" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=F8D847" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/High--Performance%20Computing-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=A9FEF7" />
+  <img src="https://img.shields.io/badge/Systems%20Programming-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=FE428E" />
+  <img src="https://img.shields.io/badge/Quantum%20Mechanics-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=9D00FF" />
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-0D0221?style=for-the-badge&labelColor=0D0221&color=0D0221&logoColor=00F0FF" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:9D00FF,100:00F0FF&height=3&section=header" width="100%"/>
 
